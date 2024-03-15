@@ -1,0 +1,14 @@
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\bin\Debug\net8.0\Problema_A.exe
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\bin\Debug\net8.0\Problema_A.deps.json
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\bin\Debug\net8.0\Problema_A.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\bin\Debug\net8.0\Problema_A.dll
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\bin\Debug\net8.0\Problema_A.pdb
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\Problema_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\Problema_A.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\Problema_A.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\Problema_A.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\Problema_A.dll
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\refint\Problema_A.dll
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\Problema_A.pdb
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\Problema_A.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Documentos\PROJETOS\Teste_Linked\Problema_A\obj\Debug\net8.0\ref\Problema_A.dll

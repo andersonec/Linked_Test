@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "Linked_API.Controllers.ProblemController",
+    "Method": "ProblemA",
+    "RelativePath": "Problem/ProblemA",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Width",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Length",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Linked_API.Controllers.ProblemController",
+    "Method": "Get",
+    "RelativePath": "Problem/ProblemB",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Linked_API.Models.ProblemBModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Linked_API.Controllers.ProblemController",
+    "Method": "Get",
+    "RelativePath": "Problem/ProblemC",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Linked_API.Models.ProblemCModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Linked_API.Controllers.ProblemController",
+    "Method": "Get",
+    "RelativePath": "Problem/ProblemD",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Linked_API.Models.ProblemDModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Linked_API.Controllers.ProblemController",
+    "Method": "Get",
+    "RelativePath": "Problem/ProblemE/{N}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "N",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
